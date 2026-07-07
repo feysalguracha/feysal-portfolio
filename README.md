@@ -1,14 +1,8 @@
-### 1. Product Landing Page
-Built a responsive landing page for a product with navigation and form.
-**Tech**: HTML, CSS, Flexbox
-**Code**: Coming soon - Built for freeCodeCamp Responsive Web Design
+# Feysal Guracha Portfolio
 
-### 2. Technical Documentation Page
-Documentation website with sidebar navigation and code examples.
-**Tech**: HTML, CSS
-**Code**: Coming soon - Built for freeCodeCamp Responsive Web Design
+Web Developer Portfolio showcasing freeCodeCamp certifications in:
+- Responsive Web Design
+- JavaScript Algorithms and Data Structures  
+- Scientific Computing with Python
 
-### 3. Personal Portfolio Webpage
-My portfolio website built to showcase my projects.
-**Tech**: HTML, CSS, JavaScript
-**Code**: Coming soon - This repo
+**Live Site:** https://feysalguracha.github.io/feysal-portfolio
